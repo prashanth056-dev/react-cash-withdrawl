@@ -1,0 +1,46 @@
+.mainBg {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.card {
+  background-color: #150b3e;
+  color: #fff;
+  border-radius: 10px;
+  padding: 20px;
+}
+.profile {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+.profilePic {
+  background-color: #c7d2fe;
+  color: #7c3aed;
+  padding: 20px;
+  border-radius: 50%;
+  margin-right: 10px;
+  height: 60px;
+  width: 60px;
+}
+.profileName {
+  color: #fff;
+}
+.cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.inRupees {
+  color: #585076;
+}
+.chooseCount {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 10px;
+}

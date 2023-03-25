@@ -1,0 +1,12 @@
+.btnElem {
+  width: 45%;
+  list-style: none;
+}
+.btn {
+  width: 100%;
+  padding: 8px;
+  border-radius: 5px;
+  color: #fff;
+  background-color: #382f5a;
+  border: solid 2px #fff;
+}
